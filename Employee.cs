@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AdventureWorksAPI;
+namespace SW_lab;
 
 /// <summary>
 /// Employee information such as salary, department, and title.

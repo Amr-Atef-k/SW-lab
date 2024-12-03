@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AdventureWorksAPI;
+namespace SW_lab;
 
 /// <summary>
 /// Lookup table containing the ISO standard codes for countries and regions.

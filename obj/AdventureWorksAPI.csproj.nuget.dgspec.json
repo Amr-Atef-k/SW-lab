@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SW-lab\\AdventureWorksAPI\\AdventureWorksAPI.csproj": {}
+    "D:\\SW-lab\\AdventureWorksAPI.csproj": {}
   },
   "projects": {
-    "D:\\SW-lab\\AdventureWorksAPI\\AdventureWorksAPI.csproj": {
+    "D:\\SW-lab\\AdventureWorksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SW-lab\\AdventureWorksAPI\\AdventureWorksAPI.csproj",
+        "projectUniqueName": "D:\\SW-lab\\AdventureWorksAPI.csproj",
         "projectName": "AdventureWorksAPI",
-        "projectPath": "D:\\SW-lab\\AdventureWorksAPI\\AdventureWorksAPI.csproj",
+        "projectPath": "D:\\SW-lab\\AdventureWorksAPI.csproj",
         "packagesPath": "C:\\Users\\Amr Atef\\.nuget\\packages\\",
-        "outputPath": "D:\\SW-lab\\AdventureWorksAPI\\obj\\",
+        "outputPath": "D:\\SW-lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amr Atef\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.0, )"
             }
           },
           "imports": [

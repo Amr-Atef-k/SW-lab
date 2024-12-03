@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AdventureWorksAPI;
+namespace SW_lab;
 
 /// <summary>
 /// Individual products associated with a specific sales order. See SalesOrderHeader.

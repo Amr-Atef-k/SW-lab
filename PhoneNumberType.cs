@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AdventureWorksAPI;
+namespace SW_lab;
 
 /// <summary>
 /// Type of phone number of a person.

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace AdventureWorksAPI;
+namespace SW_lab;
 
 public partial class AdventureWorks2022Context : DbContext
 {

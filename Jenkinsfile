@@ -4,14 +4,14 @@ pipeline {
     stage('Build') {
       steps {
         script {
-          bat 'dotnet build SW-lab.sln'
+          bat 'dotnet build sw-lab.sln'
         }
       }
     }
     stage('Docker Build') {
       steps {
         script {
-          bat 'docker build -t adventureworksapi-api .'
+          bat 'docker build -t sw-lab-api .'
         }
       }
     }

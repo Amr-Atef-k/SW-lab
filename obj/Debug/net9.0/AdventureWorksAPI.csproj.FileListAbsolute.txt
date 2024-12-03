@@ -153,3 +153,14 @@ D:\SW-lab\AdventureWorksAPI\obj\Debug\net9.0\refint\AdventureWorksAPI.dll
 D:\SW-lab\AdventureWorksAPI\obj\Debug\net9.0\AdventureWorksAPI.pdb
 D:\SW-lab\AdventureWorksAPI\obj\Debug\net9.0\AdventureWorksAPI.genruntimeconfig.cache
 D:\SW-lab\AdventureWorksAPI\obj\Debug\net9.0\ref\AdventureWorksAPI.dll
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.csproj.AssemblyReference.cache
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.AssemblyInfoInputs.cache
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.AssemblyInfo.cs
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.csproj.CoreCompileInputs.cache
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.sourcelink.json
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.dll
+D:\SW-lab\obj\Debug\net9.0\refint\AdventureWorksAPI.dll
+D:\SW-lab\obj\Debug\net9.0\AdventureWorksAPI.pdb
